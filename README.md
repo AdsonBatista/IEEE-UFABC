@@ -36,9 +36,9 @@ Atualmente os scripts existentes são:
 - [x] Tesouraria
   - [x] Recibos
   - [x] Movimentações
-- [ ] Reserva de Salas
+- [x] Reserva de Salas - Branch Agenda
 - [ ] Reporte de atividades
-
+- [x] Docs - Branch Documentação
 
 **Projetos Derivados:**
 

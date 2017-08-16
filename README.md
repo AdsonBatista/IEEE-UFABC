@@ -36,7 +36,7 @@ Atualmente os scripts existentes são:
 - [x] Tesouraria
   - [x] Recibos
   - [x] Movimentações
-- [ ] Reserva de Salas
+- [x] Reserva da Sala do IEEE
 - [ ] Reporte de atividades
 
 

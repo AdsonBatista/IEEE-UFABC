@@ -9,11 +9,11 @@ Suas funções são:
 - Enviar um e-mail para a pessoa que submeteu o documento e para o Ramo Estudantil avisando que algo foi submetido.
   - O link do arquivo é fornecido via e-mail.
 
-## Todo V1:
+## Todo V-1:
 
 ---------------------------------------------------------------------------
 
-*Versão atual: RC1*
+*Versão atual: Beta 12*
 
 ---------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Suas funções são:
 
 ---------------------------------------------------------------------------
 
-### V2.X
+### V-2.X
 - [ ] **Adicionar Transação de Transferência**
   - [ ] Ocultar campo de Upload
   - [ ] Trocar campo unidade por unidade de Saída
